@@ -2,3 +2,4 @@ displayName = SimpleMinionCounter
 version = 0.1
 side = Client
 homepage = https://github.com/zmazza/SimpleMinionCounter
+author = Zac Mazza
