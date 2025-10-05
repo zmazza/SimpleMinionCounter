@@ -1,12 +1,12 @@
 # This file will automatically update with entries for new content after a build and reload.
 
 Items: {
-	SimpleMinionCounter: {
+	MinionCounterItem: {
 		DisplayName: "Simple Minion Counter"
 		Tooltip:
 			'''
 			Template of an item
-			Replacing this tooltip is duty 
+			Replacing this tooltip is duty
 			It's snowing on Mt.Fuji
 			'''
 	}
