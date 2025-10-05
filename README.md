@@ -50,5 +50,5 @@ This mod is free to use and modify. Please credit if you use portions of the cod
 
 ## Links
 
-- **GitHub**: https://github.com/zmazza/SimpleMinionCount
+- **GitHub**: https://github.com/zmazza/SimpleMinionCounter
 - **Steam Workshop**: [Coming Soon]

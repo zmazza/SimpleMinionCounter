@@ -1,5 +1,4 @@
-displayName = SimpleMinionCount
-author = Zac Mazza
+displayName = SimpleMinionCounter
 version = 0.1
 side = Client
-homepage = https://github.com/zmazza/SimpleMinionCount
+homepage = https://github.com/zmazza/SimpleMinionCounter
