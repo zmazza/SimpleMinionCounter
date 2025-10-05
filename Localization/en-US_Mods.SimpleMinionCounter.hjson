@@ -2,7 +2,7 @@
 
 Items: {
 	MinionCounterItem: {
-		DisplayName: "Simple Minion Counter"
+		DisplayName: Simple Minion Counter
 		Tooltip:
 			'''
 			Template of an item
