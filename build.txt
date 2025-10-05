@@ -1,0 +1,5 @@
+displayName = SimpleMinionCount
+author = Zac Mazza
+version = 0.1
+side = Client
+homepage = https://github.com/zmazza/SimpleMinionCount
